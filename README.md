@@ -1,5 +1,5 @@
 # FZburner-Mk2_Ver1.0-Voron-
-## 基于FZburner-Mk2_Ver1.0正式版适配开源项目适配Voron
+## 基于FZburner-Mk2_Ver1.0正式版开源项目适配Voron
 
 https://github.com/FZaii/FZburner (github)
 ###### 感谢FZaii大佬开源!!
