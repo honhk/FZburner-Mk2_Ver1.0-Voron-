@@ -11,3 +11,4 @@ https://www.bilibili.com/video/BV1aYUWYEE9x/?spm_id_from=333.337.search-card.all
 ###### QQ群: 715552579
 
 ### 把FZburner-Mk2_Ver1.0(原版)替换为适配Voron文件
+![](https://github.com/honhk/FZburner-Mk2_Ver1.0-Voron-/blob/main/readme.png?raw=true)
